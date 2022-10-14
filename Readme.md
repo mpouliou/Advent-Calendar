@@ -1,18 +1,28 @@
 # Advent Calender
 
 1. Setup a Virtual Environment
-    CD over the Project Folder
-    - cd my-project/
-    Create Virtual Environment
-    - virtualenv venv
-    Activate Virtual Environment
-    - source venv/bin/activate
+    - CD over the Project Folder
+    
+    - Create a Virtual Environment  
+    ```commandline
+      $ virtualenv venv
+    ```
+    - Activate Virtual Environment
+    ```commandline
+       $ source venv/bin/activate
+    ```
 
 2. PIP Install Flask
-    - pip install flask
-
+    ```commandline
+      $ pip install flask
+    ```
+    
 3. Export the App
-    - export FLASK_APP=AdventCalendarApp
+    ```commandline
+      $ export FLASK_APP=AdventCalendarApp
+    ```
 
 4. To bring up the Development Server
-    - flask run
+   ```commandline
+      $ flask run
+   ```
