@@ -4,4 +4,6 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return render_template('index.html')
+    dates = 25
+    return render_template('index.html', dates=dates)
+
