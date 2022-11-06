@@ -6,4 +6,3 @@ app = Flask(__name__)
 def hello():
     dates = 25
     return render_template('index.html', dates=dates)
-

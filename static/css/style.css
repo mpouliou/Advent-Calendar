@@ -13,12 +13,18 @@
 	position: absolute;
     margin-left: -34%;
     margin-top: 6%;
-    height: 83%;
+    height: 900px;
+    width: 600px;
 }
 
 #stars_div{
     margin-top: 5%;
     width: 100%;
+}
+
+#stars_div img {
+    width: 80px;
+    height: 80px;
 }
 
 #stars_subdiv{
@@ -204,7 +210,7 @@
     background-color: green;
 }
 
-}
+
 
 #form_div {
 	width: 35%;
