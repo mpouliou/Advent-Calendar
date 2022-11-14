@@ -20,6 +20,7 @@
 3. Export the App
     ```commandline
       $ export FLASK_APP=AdventCalendarApp
+      $ export FLASK_DEBUG=1
     ```
 
 4. To bring up the Development Server
