@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<title>Advent Calendar</title>
-		<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+		<link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 		<script type="text/javascript" src="/js/jquery-3.6.1.js"></script>
 		<script>
@@ -49,7 +49,7 @@
 			<?php for ($x = 1; $x <= 25; $x++) { ?>
 				<div id="stars_subdiv" class="<?php echo $x; ?>">
 					<p id="title" class="title_<?php echo $x; ?>"><?php echo $x; ?></p>
-					<img src="images/star.png" id="star_image" class="image_<?php echo $x; ?>" alt="program">
+					<img src="../static/images/star.png" id="star_image" class="image_<?php echo $x; ?>">
 					<p id="no_open_msg" class="no_open_msg_<?php echo $x; ?>">Don't be naughty! This star reveals on the <?php echo $x; ?> of December.</p>
 				</div>
 			<?php }?>
