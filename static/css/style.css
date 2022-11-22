@@ -218,19 +218,17 @@
 
 #content_div{
 	color: white;
-	background-color: darkred;
-    font-size: 12pt;
-    font-style: italic;
+	background: url(../images/popup_bg.jpg);
+    font-size: 14pt;
     position: absolute;
     width: 34%;
     font-weight: bold;
     margin-top: -32%;
     margin-left: 32%;
-    padding: 10px;
+    padding-top: 120px;
     z-index: 1;
-    padding: 10px;
-    border-block-color: red;
     border-style: solid;
+    font-family:'Poppins', sans-serif;;
 }
 
 #day_counting{
