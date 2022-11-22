@@ -1,34 +1,33 @@
 #title{
 	color: white;
-    font-size: 38pt;
+    font-size: 45pt;
+    font-family: "Brush Script MT", "Lucida Handwriting";
+    
     text-align: center;		
 	text-shadow: 1px 1px black;
 }
 
 #main{
-	background: url(../images/popup_bg.jpg);
-    background-repeat: no-repeat;
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
+	background: url(../images/background.jpg)no-repeat center center fixed;
+    
     background-size: cover;
 }
 
 #star_icon{    
-	width: 5%;
+	width: 8%;
     position: absolute;
-    margin-left: 14.3%;
+    margin-left: 17.3%;
     margin-top: -5%;
 }
 
 #christmas_tree_icon{
     margin-top: -2%;
-    height: 83%;
+    height: 150%;
 }
 
 #stars_div{
     margin-top: 5%;
-    width: 100%;
+    width: 50%;
 }
 
 #stars_subdiv{
@@ -38,157 +37,157 @@
 }
 
 #stars_subdiv img{
-    width: 24%;
+    width: 19%;
 }
 
 .starsSubdiv_1{
-    margin-left: 19%;
+    margin-left: 21%;
     position: absolute;
-    margin-top: 45%;
+    margin-top: 60%;
 }
 
 .starsSubdiv_2{
-    margin-left: 42%;
+    margin-left: 28.5%;
 	position: absolute;
-	margin-top: 19%;
+	margin-top: 60%;
 }
 
 .starsSubdiv_3{
-    margin-left: 31%;
+    margin-left: 36%;
     position: absolute;
-    margin-top: 48%;
+    margin-top: 60%;
 }
 
 .starsSubdiv_4{
-    margin-left: 42%;
+    margin-left: 43.5%;
     position: absolute;
-    margin-top: 43%;
+    margin-top: 60%;
 }
 
 .starsSubdiv_5{
-    margin-left: 40%;
+    margin-left: 51%;
 	position: absolute;
-	margin-top: 25%;
+	margin-top: 60%;
 }
 
 .starsSubdiv_6{
-    margin-left: 34%;
+    margin-left: 58%;
+    position: absolute;
+    margin-top: 60%;
+}
+
+.starsSubdiv_7{
+    margin-left: 26%;
+    position: absolute;
+    margin-top: 50%;
+}
+
+.starsSubdiv_8{
+    margin-left: 32.5%;
+	position: absolute;
+	margin-top: 50%;
+}
+
+.starsSubdiv_9{
+    margin-left: 39%;
+    position: absolute;
+    margin-top: 50%;
+}
+
+.starsSubdiv_10{
+    margin-left: 45.5%;
+    position: absolute;
+    margin-top: 50%;
+}
+
+.starsSubdiv_11{
+    margin-left: 53%;
+    position: absolute;
+    margin-top: 50%;
+}
+
+.starsSubdiv_12{
+    margin-left: 28%;
     position: absolute;
     margin-top: 40%;
 }
 
-.starsSubdiv_7{
-    margin-left: 67%;
-    position: absolute;
-    margin-top: 41%;
-}
-
-.starsSubdiv_8{
-    margin-left: 36%;
-	position: absolute;
-	margin-top: 20%;
-}
-
-.starsSubdiv_9{
-    margin-left: 61%;
-    position: absolute;
-    margin-top: 44%;
-}
-
-.starsSubdiv_10{
-    margin-left: 31%;
-    position: absolute;
-    margin-top: 15%;
-}
-
-.starsSubdiv_11{
-    margin-left: 13%;
-    position: absolute;
-    margin-top: 44%;
-}
-
-.starsSubdiv_12{
+.starsSubdiv_13{
     margin-left: 35%;
     position: absolute;
-    margin-top: 8%;
-}
-
-.starsSubdiv_13{
-    margin-left: 17%;
-    position: absolute;
-    margin-top: 37%;
+    margin-top: 40%;
 }
 
 .starsSubdiv_14{
-    margin-left: 28%;
+    margin-left: 42%;
     position: absolute;
-    margin-top: 36%;
+    margin-top: 40%;
 }
 
 .starsSubdiv_15{
-    margin-left: 48%;
+    margin-left: 50%;
     position: absolute;
-    margin-top: 39%;
+    margin-top: 40%;
 }
 
 .starsSubdiv_16{
-    margin-left: 28%;
+    margin-left: 31%;
     position: absolute;
-    margin-top: 26%;
+    margin-top: 30%;
 }
 
 .starsSubdiv_17{
-    margin-left: 46%;
+    margin-left: 36.5%;
 	position: absolute;
 	margin-top: 30%;
 }
 
 .starsSubdiv_18{
-    margin-left: 49%;
+    margin-left: 42%;
     position: absolute;
-    margin-top: 23%;
+    margin-top: 30%;
 }
 
 .starsSubdiv_19{
-    margin-left: 73%;
+    margin-left: 47%;
     position: absolute;
-    margin-top: 45%;
+    margin-top: 30%;
 }
 
 .starsSubdiv_20{
-    margin-left: 42%;
+    margin-left: 34%;
 	position: absolute;
-	margin-top: 12%;
+	margin-top: 20%;
 }
 
 .starsSubdiv_21{
-    margin-left: 41%;
+    margin-left: 40%;
 	position: absolute;
-	margin-top: 5%;
+	margin-top: 20%;
 }
 
 .starsSubdiv_22{
-    margin-left: 48%;
+    margin-left: 46%;
     position: absolute;
-    margin-top: 48%;
+    margin-top: 20%;
 }
 
 .starsSubdiv_23{
-    margin-left: 41%;
+    margin-left: 37%;
     position: absolute;
-    margin-top: 34%;
+    margin-top: 10%;
 }
 
 .starsSubdiv_24{
-    margin-left: 34%;
+    margin-left: 42%;
     position: absolute;
-    margin-top: 29%;
+    margin-top: 10%;
 }
 
 .starsSubdiv_25{
-    margin-left: 39%;
+    margin-left: 40%;
     position: absolute;
-    margin-top: 49%;
+    margin-top: 5%;
 }
 
 #stars_subdiv #title{
