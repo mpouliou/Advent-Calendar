@@ -1,0 +1,319 @@
+#title{
+	color: white;
+    font-size: 45pt;
+    font-family: "Brush Script MT", "Lucida Handwriting";
+    position: absolute;
+    text-align: center;		
+	text-shadow: 1px 1px black;
+	margin-left: 33%;
+}
+
+#main{
+	background: url(../images/background.jpg)no-repeat center center fixed;
+    
+    background-size: cover;
+}
+
+#star_icon{    
+	width: 3%;
+    position: absolute;
+    margin-left: 46%;
+    margin-top: 5.5%;
+}
+
+#christmas_tree_icon{
+    margin-top: 8%;
+    height: 81%;
+    margin-left: 33%;
+	width: 30%;
+}
+
+#stars_div{
+    margin-top: -37%;
+    width: 50%;
+    position: absolute;
+    margin-left: 26%;
+}
+
+#stars_subdiv{
+	width: 40%;
+    position: absolute;
+}
+
+.starsSubdiv_1{
+    margin-left: 21%;
+    margin-top: 60%;
+}
+
+.starsSubdiv_2{
+    margin-left: 28.5%;
+	margin-top: 60%;
+}
+
+
+.starsSubdiv_3{
+    margin-left: 36%;
+    margin-top: 60%;
+}
+
+
+.starsSubdiv_4{
+    margin-left: 43.5%;
+    margin-top: 60%;
+}
+
+.starsSubdiv_5{
+    margin-left: 51%;
+	margin-top: 60%;
+}
+
+.starsSubdiv_6{
+    margin-left: 58%;
+    margin-top: 60%;
+}
+
+.starsSubdiv_7{
+    margin-left: 26%;
+    margin-top: 50%;
+}
+
+.starsSubdiv_8{
+    margin-left: 32.5%;
+	margin-top: 50%;
+}
+
+.starsSubdiv_9{
+    margin-left: 39%;
+    margin-top: 50%;
+}
+
+.starsSubdiv_10{
+    margin-left: 45.5%;
+    margin-top: 50%;
+}
+
+.starsSubdiv_11{
+    margin-left: 53%;
+    margin-top: 50%;
+}
+
+.starsSubdiv_12{
+    margin-left: 28%;
+    margin-top: 40%;
+}
+
+.starsSubdiv_13{
+    margin-left: 35%;
+    margin-top: 40%;
+}
+
+.starsSubdiv_14{
+    margin-left: 42%;
+    margin-top: 40%;
+}
+
+.starsSubdiv_15{
+    margin-left: 50%;
+    margin-top: 40%;
+}
+
+.starsSubdiv_16{
+    margin-left: 31%;
+    margin-top: 30%;
+}
+
+.starsSubdiv_17{
+    margin-left: 36.5%;
+	margin-top: 30%;
+}
+
+.starsSubdiv_18{
+    margin-left: 42%;
+    margin-top: 30%;
+}
+
+.starsSubdiv_19{
+    margin-left: 47%;
+    margin-top: 30%;
+}
+
+.starsSubdiv_20{
+    margin-left: 34%;
+	margin-top: 20%;
+}
+
+.starsSubdiv_21{
+    margin-left: 40%;
+	margin-top: 20%;
+}
+
+.starsSubdiv_22{
+    margin-left: 46%;
+    margin-top: 20%;
+}
+
+.starsSubdiv_23{
+    margin-left: 37%;
+    margin-top: 10%;
+}
+
+.starsSubdiv_24{
+    margin-left: 42%;
+    margin-top: 10%;
+}
+
+.starsSubdiv_25{
+    margin-left: 40%;
+    margin-top: 3%;
+}
+
+.starsSubdiv_1 img{
+	width: 15%;
+}
+
+.starsSubdiv_2 img{
+	width: 15%;
+}
+
+.starsSubdiv_3 img{
+	width: 15%;
+}
+
+.starsSubdiv_4 img{
+	width: 15%;
+}
+
+.starsSubdiv_5 img{
+	width: 15%;
+}
+
+.starsSubdiv_6 img{
+	width: 15%;
+}
+
+.starsSubdiv_7 img{
+	width: 15%;
+}
+
+.starsSubdiv_8 img{
+	width: 15%;
+}
+
+.starsSubdiv_9 img{
+	width: 15%;
+}
+
+.starsSubdiv_10 img{
+	width: 15%;
+}
+
+.starsSubdiv_11 img{
+	width: 15%;
+}
+
+.starsSubdiv_12 img{
+	width: 15%;
+}
+
+.starsSubdiv_13 img{
+	width: 15%;
+}
+
+.starsSubdiv_14 img{
+	width: 15%;
+}
+
+.starsSubdiv_15 img{
+	width: 15%;
+}
+
+.starsSubdiv_16 img{
+	width: 15%;
+}
+
+.starsSubdiv_17 img{
+	width: 15%;
+}
+
+.starsSubdiv_18 img{
+	width: 15%;
+}
+
+.starsSubdiv_19 img{
+	width: 15%;
+}
+
+.starsSubdiv_20 img{
+	width: 15%;
+}
+
+.starsSubdiv_21 img{
+	width: 15%;
+}
+
+.starsSubdiv_22 img{
+	width: 15%;
+}
+
+.starsSubdiv_23 img{
+	width: 15%;
+}
+
+.starsSubdiv_24 img{
+	width: 15%;
+}
+
+.starsSubdiv_25 img{
+	width: 15%;
+}
+
+#stars_subdiv #title{
+    height: auto;
+    text-align: center;
+    font-size: 17pt;
+    font-weight: bold;
+    color: white;
+    margin-left: 7%;
+    text-shadow: 2px 2px 5px black;
+    margin-top: 0.5%;
+}
+
+#no_open_msg{
+	color: white;
+    font-size: 12pt;
+    font-style: italic;
+    position: absolute;
+    width: 50%;
+    font-weight: bold;
+    margin-top: -6%;
+    margin-left: 5%;
+    background-color: green;
+    padding: 10px;
+	z-index: 1
+}
+
+#content_div{
+	color: white;
+	background: url(../images/popup_bg.jpg);
+    font-size: 14pt;
+    position: absolute;
+    width: 34%;
+    font-weight: bold;
+    margin-top: -32%;
+    margin-left: 32%;
+    padding: 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    z-index: 1;
+    border-style: solid;
+    font-family:'Poppins', sans-serif;;
+}
+
+#day_counting{
+}
+
+#did_you_know {
+	margin-top: -6.5%;
+    font-size: 20pt;
+	margin-left: 33%
+}
